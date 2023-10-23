@@ -1,0 +1,71 @@
+    /* NAVBAR */
+    div.subnav {
+        display: block;
+        padding-top: 15px;
+    }
+
+    div.nav li {
+        display: block;
+    }
+
+    div.nav1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    div.nav2 li {
+        font-size: 15px;
+    }
+
+    div.nav3 li {
+        font-size: 15px;
+    }
+    /* END OF NAVBAR */
+
+/* SECTION1 */
+    div.experience h2 {
+        font-size: 35px;
+    }
+
+    div.experience p {
+        font-size: 10px;
+    }
+
+    div.experience img {
+        width:35%;
+        height:auto;
+    }
+    /* END SECTION1 */
+
+    /* SECTION3 */
+    div.delivery {
+        display: block;
+        padding: 20px 0px;
+    }
+
+    div.sectors {
+        width: 100%;
+        margin: 20px 0px;
+        display: block;
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    div.sectors img {
+        width:30%;
+        height:auto;
+    }
+    /* END OF SECTION3 */
+
+    /* SECTION4 */
+    div.menu1 {
+        padding: 10px;
+        text-align: center;
+    }
+
+    div.menu1 img {
+        width:30%;
+        height:auto;
+        margin:10px;
+    }
+    /* END OF SECTION4 */
